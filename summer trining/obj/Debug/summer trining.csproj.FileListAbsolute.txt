@@ -1,0 +1,10 @@
+C:\Users\HUAWEI\source\repos\summer trining\bin\Debug\summer trining.exe.config
+C:\Users\HUAWEI\source\repos\summer trining\bin\Debug\summer trining.exe
+C:\Users\HUAWEI\source\repos\summer trining\bin\Debug\summer trining.pdb
+C:\Users\HUAWEI\source\repos\summer trining\obj\Debug\summer trining.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\source\repos\summer trining\obj\Debug\summer_trining.Form1.resources
+C:\Users\HUAWEI\source\repos\summer trining\obj\Debug\summer_trining.Properties.Resources.resources
+C:\Users\HUAWEI\source\repos\summer trining\obj\Debug\summer trining.csproj.GenerateResource.cache
+C:\Users\HUAWEI\source\repos\summer trining\obj\Debug\summer trining.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\summer trining\obj\Debug\summer trining.exe
+C:\Users\HUAWEI\source\repos\summer trining\obj\Debug\summer trining.pdb
