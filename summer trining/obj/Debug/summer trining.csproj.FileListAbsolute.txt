@@ -8,3 +8,47 @@ C:\Users\HUAWEI\source\repos\summer trining\obj\Debug\summer trining.csproj.Gene
 C:\Users\HUAWEI\source\repos\summer trining\obj\Debug\summer trining.csproj.CoreCompileInputs.cache
 C:\Users\HUAWEI\source\repos\summer trining\obj\Debug\summer trining.exe
 C:\Users\HUAWEI\source\repos\summer trining\obj\Debug\summer trining.pdb
+C:\Users\Nuham\Source\Repos\SummerTrainingAB\summer trining\bin\Debug\10.103.131.5_27_5_2024_7_33_36.mdb
+C:\Users\Nuham\Source\Repos\SummerTrainingAB\summer trining\bin\Debug\SummerTrainingDB.accdb
+C:\Users\Nuham\Source\Repos\SummerTrainingAB\summer trining\bin\Debug\summer trining.exe.config
+C:\Users\Nuham\Source\Repos\SummerTrainingAB\summer trining\bin\Debug\summer trining.exe
+C:\Users\Nuham\Source\Repos\SummerTrainingAB\summer trining\bin\Debug\summer trining.pdb
+C:\Users\Nuham\Source\Repos\SummerTrainingAB\summer trining\obj\Debug\summer trining.csproj.AssemblyReference.cache
+C:\Users\Nuham\Source\Repos\SummerTrainingAB\summer trining\obj\Debug\summer_trining.Form1.resources
+C:\Users\Nuham\Source\Repos\SummerTrainingAB\summer trining\obj\Debug\summer_trining.Properties.Resources.resources
+C:\Users\Nuham\Source\Repos\SummerTrainingAB\summer trining\obj\Debug\summer trining.csproj.GenerateResource.cache
+C:\Users\Nuham\Source\Repos\SummerTrainingAB\summer trining\obj\Debug\summer trining.csproj.CoreCompileInputs.cache
+C:\Users\Nuham\Source\Repos\SummerTrainingAB\summer trining\obj\Debug\summer trining.exe
+C:\Users\Nuham\Source\Repos\SummerTrainingAB\summer trining\obj\Debug\summer trining.pdb
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\EasyXLS.dll
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\obj\Debug\summer t.155751CF.Up2Date
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\ClosedXML.dll
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\Irony.dll
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\System.Buffers.dll
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\System.IO.Packaging.dll
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\System.Memory.dll
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\XLParser.dll
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\ClosedXML.xml
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\System.Buffers.xml
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\System.IO.Packaging.xml
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\System.Memory.xml
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\itextsharp.dll
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\itextsharp.xml
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\summer trining.exe.manifest
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\summer trining.application
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\obj\Debug\summer trining.exe.manifest
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\obj\Debug\summer trining.application
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\database\10.103.131.5_27_5_2024_7_33_36.mdb
+C:\Users\Nuham\source\repos\SummerTrainingAB\summer trining\bin\Debug\database\SummerTrainingDB_Updat.accdb
